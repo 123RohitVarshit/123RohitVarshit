@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![An image of @123rohitvarshit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/123rohitvarshit)](https://holopin.io/@123rohitvarshit)
 
 <!--
 **123RohitVarshit/123RohitVarshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
